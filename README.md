@@ -1,4 +1,4 @@
-# Custom Unity YAML Merge Script 中文版本
+# UnityYAML Bridge
 
 此脚本旨在帮助您使用 Unity 的 `UnityYAMLMerge.exe` 工具自动合并 Unity YAML 文件，如 `.unity`、`.prefab` 和 `.asset` 文件。该脚本提供了增强的日志记录、错误处理，并简化了 Unity 项目的合并过程。
 

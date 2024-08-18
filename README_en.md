@@ -1,4 +1,4 @@
-# Custom Unity YAML Merge Script
+# UnityYAML Bridge
 
 This script is designed to help you automatically merge Unity YAML files, such as `.unity`, `.prefab`, and `.asset` files, using Unity's `UnityYAMLMerge.exe` tool. The script provides enhanced logging, error handling, and simplifies the merge process for Unity projects.
 
