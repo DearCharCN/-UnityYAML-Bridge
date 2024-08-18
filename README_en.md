@@ -110,5 +110,3 @@ The `custom-unity-merge.ps1` script automates the process of merging Unity YAML 
 ## Conclusion
 
 By following the steps outlined in this README, you can ensure smooth and automated merging of Unity YAML files in your project, saving time and reducing the potential for merge conflicts. This script is particularly useful for teams collaborating on large Unity projects where manual merging can be tedious and error-prone.
-
-If you encounter any issues or need further customization, feel free to modify the script or reach out for support.
